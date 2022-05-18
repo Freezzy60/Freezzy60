@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Freezzy60
 - 👀 I’m interested in Web-development
-- 🌱 I’m currently learning C#, Html, Css & Javascript
+- 🌱 I’m currently learning C#, Html, Css, Javascript & PHP
 
 
 <!---
